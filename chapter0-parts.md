@@ -33,20 +33,5 @@ There are two main types of pins:
 - **Digital Pins** (HIGH/LOW = on/off)
 - **Analog Pins** (measure things like light or temp)
 
----
-
-## 🎯 What Can I Do With Arduino?
-
-You can build all sorts of fun things! For example:
-- Blinking lights
-- Door alarms
-- Mini games
-- Music makers
-- Motion detectors
-- Robots!
-
-And with each project, you learn a bit more about how electronics and code work together — just like magic! 🪄
-
----
-
 > The Arduino Uno helps kids (and grown-ups too!) learn electronics, coding, and creativity all in one board. 🌈🔧💻
+
