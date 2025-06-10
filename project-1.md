@@ -74,3 +74,53 @@ Imagine a line of kids passing a ball down the line. If one kid leaves, the ball
 
 ```text
 + ------💡------💡------💡------ -
+# 🔌 Arduino Starter Kit – Project 1: Blinking LED 💡
+
+## 📘 Project Overview
+
+This was my **first project** using the Arduino Starter Basic Kit! In this project, I learned how to connect an LED to the Arduino and make it **blink** on and off using code.
+
+---
+
+## 🛠️ Components Used
+
+- 1 x Arduino Uno board
+- 1 x LED (Light Emitting Diode)
+- 1 x 220Ω resistor
+- Breadboard
+- Jumper wires
+- USB cable (to connect to the computer)
+
+---
+
+## ⚙️ Circuit Diagram
+
+- The **long leg** of the LED (positive) connects to **digital pin 13** on the Arduino (through a resistor).
+- The **short leg** (negative) goes to **GND**.
+- The resistor helps protect the LED so it doesn't get too much power.
+
+---
+
+## 🧠 What I Learned
+
+- How to build a simple circuit on a breadboard
+- How to upload a sketch (program) to the Arduino
+- How to control an LED using code
+- What `setup()` and `loop()` functions do in Arduino code
+
+---
+
+## 💻 Arduino Code
+
+```cpp
+void setup() {
+  pinMode(13, OUTPUT);  // Set pin 13 as an output
+}
+
+void loop() {
+  digitalWrite(13, HIGH); // Turn the LED on
+  delay(1000);            // Wait for 1 second
+  digitalWrite(13, LOW);  // Turn the LED off
+  delay(1000);            // Wait for 1 second
+}
+
