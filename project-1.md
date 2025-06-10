@@ -40,14 +40,23 @@ Imagine you have:
 - A resistor with **3 ohms** (Ω)
 
 Using Ohm’s Law, you can find the current:
+V / Ω = I, or 9 / 3 = 3.
 
-
+So, **3 amps** of current flow through the circuit.
 
 ---
 
-## The Formula
+## Why It’s Useful
 
+Ohm’s Law helps you:
 
+- Calculate how much electricity flows in your circuit  
+- Choose the right parts (like resistors) to keep your circuit safe  
+- Understand why some parts get hot or don’t work properly
+
+---
+
+> Ohm’s Law is like the secret recipe for making your circuits work perfectly! 🔧✨
 
 ---
 
