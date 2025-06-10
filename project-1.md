@@ -7,6 +7,47 @@ Hi! I’m a 10-year-old who’s learning Arduino and electronics. Today, I learn
 - ⚡ Ohm’s Law  
 
 Here’s what they mean in simple words — and how they work!
+# Ohm’s Law Explained ⚡
+
+Ohm’s Law is a basic rule that helps us understand how electricity flows in a circuit.
+V = IR
+
+Where:
+
+- **V** = Voltage (measured in volts, V)  
+  *Voltage is like the “push” that makes electricity move.*
+
+- **I** = Current (measured in amps, A)  
+  *Current is how much electricity is flowing.*
+
+- **R** = Resistance (measured in ohms, Ω)  
+  *Resistance is anything that slows down the electricity.*
+
+---
+
+## How It Works
+
+- If the voltage (V) gets bigger, more current (I) flows.
+- If the resistance (R) gets bigger, less current (I) flows.
+
+---
+
+## Example
+
+Imagine you have:
+
+- A battery with **9 volts** (V)
+- A resistor with **3 ohms** (Ω)
+
+Using Ohm’s Law, you can find the current:
+
+
+
+---
+
+## The Formula
+
+
 
 ---
 
