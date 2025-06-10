@@ -72,7 +72,7 @@ Imagine a line of kids passing a ball down the line. If one kid leaves, the ball
 - If one part breaks, everything stops working ❌
 - The lights share the power
 
-```text
+
 + ------💡------💡------💡------ -
 # 🔌 Arduino Starter Kit – Project 1: Blinking LED 💡
 
