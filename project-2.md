@@ -75,6 +75,8 @@ void loop() {
     digitalWrite(redLED2, LOW);
   }
 }
+```
+
 ## 4. ⚡ How Electricity Flows
 
 Here’s what happens with the flow of electricity in each mode:
